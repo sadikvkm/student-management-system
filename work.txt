@@ -1,0 +1,34 @@
+[] Template integration
+[] Authentication integration
+[] Create side menu json | File: ./public/menus.json
+# Components creation
+    [] Delete Component
+    [] Action Messages
+    [] Helpers 
+# Modules
+    [] Teachers
+        [] List
+        [] Create 
+        [] Edit
+        [] Delete
+    [] Students
+        [] List
+        [] Create
+        [] Edit
+        [] Delete
+    [] Subjects
+        [] List
+        [] Create
+        [] Edit
+        [] Delete
+    [] Terms
+        [] List
+        [] Create
+        [] Edit
+        [] Delete
+    [] Marks
+        [] List
+        [] Create
+        [] Edit
+        [] Delete
+[] Basic testing

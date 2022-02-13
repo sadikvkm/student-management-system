@@ -1,0 +1,1 @@
+<button type="{{isset($type) ? $type : 'button'}}" id="{{isset($id) ? $id : rand() . '-button'}}" class="btn btn-{{isset($color) ? $color : 'primary'}} {{isset($fullWidth) ? ' btn-block w-100' : ''}} {{isset($small) ? ' btn-sm' : ''}}">{{trans($label)}}</button>

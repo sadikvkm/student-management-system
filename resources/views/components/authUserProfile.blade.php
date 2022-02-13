@@ -1,0 +1,1 @@
+<div class="image"> <img src="{{authUserLogo()}}" class="img-circle elevation-2" alt="User Image"> </div>
